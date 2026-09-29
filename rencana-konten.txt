@@ -2,3 +2,5 @@
 - php framework
 - slebew geming
 - fundamental struktur data
+  -vue
+-python
