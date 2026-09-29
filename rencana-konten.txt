@@ -1,7 +1,5 @@
 - video javascrip
 - php framework
-- slebew geming
 - fundamental struktur data
-  - vue
-- python
-- apaya
+  - angular
+- laravel
