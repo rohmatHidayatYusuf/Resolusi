@@ -1,4 +1,5 @@
 - video javascrip
 - php framework
-- slebew geming
 - fundamental struktur data
+  - angular
+- laravel
